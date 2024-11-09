@@ -1,16 +1,22 @@
 body {
   background: rgb(176, 176, 163);
 }
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-logo {
   max-width: 200px;
   display: block;
   margin: 0 auto;
+
 }
 
 .App-header {
   margin: 20px 0;
 }
 .App-footer {
-  text-align: left;
+  text-align: center;
   margin: 30px 0;
 }
