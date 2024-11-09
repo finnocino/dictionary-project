@@ -1,5 +1,6 @@
 body {
-  background: rgb(176, 176, 163);
+  background: rgb(244, 247, 249);
+
 }
 
 .App {
@@ -7,14 +8,13 @@ body {
   margin: 0 auto;
 }
 .App-logo {
-  max-width: 200px;
+  max-width: 250px;
   display: block;
   margin: 0 auto;
-
 }
 
 .App-header {
-  margin: 20px 0;
+  margin: 40px 0;
 }
 .App-footer {
   text-align: center;
