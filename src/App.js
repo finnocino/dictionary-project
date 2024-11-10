@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary defaultKeyword ="sunrise"/>
         </main>
         <footer className="App-footer">
-         <small> Coded by Rita Bern, open-sourced on <a href="https://github.com/finnocino/dictionary-project" target="_blank" rel="noreferrer">Github</a> and hosted on <a href="https://endearing-choux-c062ea.netlify.app/" target="_blank" rel="noreferrer">Netlify</a>
+         <small> Coded by Rita Bern, open-sourced on <a href="https://github.com/finnocino/dictionary-project" target="_blank" rel="noreferrer">Github</a> and hosted on <a href="https://dictionary-app-project-shecodes.netlify.app/" target="_blank" rel="noreferrer">Netlify</a>
             </small>
         </footer>
       </div>
