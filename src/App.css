@@ -1,6 +1,5 @@
 body {
   background: rgb(244, 247, 249);
-
 }
 
 .App {
@@ -10,7 +9,7 @@ body {
 .App-logo {
   max-width: 250px;
   display: block;
-  margin: 0 auto;
+  margin: 80px auto 10px;
 }
 
 .App-header {
